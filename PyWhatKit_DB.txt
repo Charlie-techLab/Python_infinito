@@ -1,0 +1,35 @@
+Date: 20/9/2024
+Time: 16:25
+Phone Number: +50577102096
+Message: Hello, this message has been sended from Python
+--------------------
+Date: 20/9/2024
+Time: 16:27
+Phone Number: +50577102096
+Message: Hello, this message has been sended from Python
+--------------------
+Date: 20/9/2024
+Time: 17:24
+Phone Number: +50577102096
+Message: Hello, this message has been sended from Python
+--------------------
+Date: 20/9/2024
+Time: 17:29
+Phone Number: +50577102096
+Message: Hello, this message has been sended from Python
+--------------------
+Date: 22/9/2024
+Time: 15:25
+Phone Number: +50577102096
+Message: Hello, this message has been sent from Python
+--------------------
+Date: 22/9/2024
+Time: 15:28
+Phone Number: +50577102096
+Message: Hello, this message has been sent from Python
+--------------------
+Date: 22/9/2024
+Time: 20:37
+Phone Number: +50577102096
+Message: Hola desde el evento de Python MLSA 22/9/2024
+--------------------
